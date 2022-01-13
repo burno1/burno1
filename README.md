@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2> Hey there! I'm Bruno.</h2>
 
-<!--
-**burno1/burno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> &nbsp; About Me </h3>
 
-Here are some ideas to get you started:
+- &nbsp; 4 years of experience with Software development.
+- &nbsp; Graduated in Analysis and systems development by UFPR .
+- &nbsp; Focusing on clean software architecture to web systems, design patterns and code practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burno1&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burno1&theme=dark&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/fernandes-bruno/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fernandesbruno-blue?style=flat-square&logo=linkedin"></a>
+</p>
