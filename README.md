@@ -2,7 +2,6 @@
 
 <h3> &nbsp; About Me </h3>
 
-- &nbsp; 4 years of experience with Software development.
 - &nbsp; Graduated in Analysis and systems development by UFPR .
 - &nbsp; Focusing on clean software architecture to web systems, design patterns and code practices.
 
