@@ -2,7 +2,8 @@
 
 <h3> &nbsp; About Me </h3>
 
-- &nbsp; Graduated in Analysis and systems development by UFPR .
+- &nbsp; Senior Software Enginner.
+- &nbsp; Graduated in Analysis and systems development by UFPR.
 - &nbsp; Focusing on clean software architecture to web systems, design patterns and code practices.
 
 <br/>
